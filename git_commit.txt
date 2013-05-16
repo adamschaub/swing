@@ -1,0 +1,5 @@
+To push to repo:
+
+git add [* | file] //add the files you updated. * is for all files. Recurses through subdirectories
+git commit -m "commit comment"
+git push 
